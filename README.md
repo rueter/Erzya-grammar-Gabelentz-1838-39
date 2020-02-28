@@ -8,7 +8,7 @@ If you use this data set in an academic publication, we would be ever so gratefu
 
 Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Gabelentz, H. C. von Der: Versuch einer mordwinischen Grammatik, 1838-39 (Version v1.0)
 
-[![DOI](https://zenodo.org/badge/206075454.svg)](https://zenodo.org/badge/latestdoi/206075454)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3385180.svg)](https://doi.org/10.5281/zenodo.3385180)
 
 # Introduction
 This document has been designed for use with html linking to the 1821 Erzya Gospel [here](https://github.com/rueter/myv_New-Testament_1821-1827)
